@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(199, 209, 210);
+}
+h2{
+    color:black;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:darkslategrey;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    font-family: monospace;
+color:blue
+}
+hr{
+    color: brown;
+}
+h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:blue
+}
+li{
+    
+    color:blue}
+h5{
+    color:blue
+}
+#Skills{
+    background-color:cornflowerblue;
+    padding: 0px 20px 0px 20px;
+}
+#Edu{
+    background-color:coral;
+    padding: 0px 20px 0px 20px;
+}
+#Lang{
+    background-color: cornflowerblue;
+    padding: 0px 20px 0px 20px;
+}
+#Hob{
+    background-color: coral;
+    padding: 0px 20px 0px 20px;
+}
+#Pro{
+    background-color: cornflowerblue;
+    padding: 0px 20px 0px 20px;
+}
+.Profile{
+    
+    margin-left: 550px;
+    margin
+    
+}
+#Work{
+    background-color: coral;
+    padding: 0px 20px 0px 20px;
+}
+#Extra{
+    background-color:cornflowerblue ;
+    padding: 0px 20px 0px 20px;
+}
+#about{
+    padding: 0px 20px 0px 20px;
+    background-color:coral;
+}
